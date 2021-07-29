@@ -9,7 +9,6 @@
 ![CSS](https://img.shields.io/badge/CSS-266132?style=for-the-badge&logo=css3)
 ![CSS Modules](https://img.shields.io/badge/CSSModules-266132?style=for-the-badge&logo=CSSModules)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-266132?style=for-the-badge&logo=JavaScript&logocolor=E9D54D)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=Node.js&logoColor=E9D54D)
 ![Git](https://img.shields.io/badge/Git-266132?style=for-the-badge&logo=git)
 ![React](https://img.shields.io/badge/-React-266132?style=for-the-badge&logo=React&logocolor=E9D54D)
 ![React-Router](https://img.shields.io/badge/React_Router-266132?style=for-the-badge&logo=react-router)
@@ -20,9 +19,6 @@
 ![PropTypes](https://img.shields.io/badge/PropTypes-266132?style=for-the-badge&logo=P)
 ![Prettier](https://img.shields.io/badge/Prettier-266132?style=for-the-badge&logo=prettier)
 ![airbnb](https://img.shields.io/badge/airbnb-266132?style=for-the-badge&logo=airbnb)
-![ESLint](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=ESLint&logoColor=E9D54D)
-![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=E9D54D)
-![WebStorm](https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=WebStorm&logoColor=E9D54D)
 
 ### Какие у меня работы?
 
@@ -42,7 +38,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/HiBrazza)
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/notochkacom)
-[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ms182/)
+[![instagram](https://img.shields.io/badge/instagram-000?style=social&logo=instagram)](https://www.instagram.com/ms.182/)
 
 
 
