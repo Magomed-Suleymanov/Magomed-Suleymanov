@@ -1,19 +1,19 @@
-### Всем привет и добро пожаловать 👋 
+### Всем добро пожаловать 👋 
 
-Меня зовут Магомед
+Меня зовут Магомед и мне 21 год. Я Front-end разработчик.
 
 ### Какие у меня работы?
 
-- Десктопный чат (React/Redux)
+- Десктопный чат 
 [Код](https://github.com/Magomed-Suleymanov/React_chat_challenge) | [Demo](https://murmuring-journey-98080.herokuapp.com/)
 
-- Проект "Помощник мэра" (React/Redux)
+- Проект "Помощник мэра" 
 [Код](https://github.com/Magomed-Suleymanov/City_hall_assistant) | [Demo](https://fierce-refuge-34600.herokuapp.com/)
 
-- Приложение для конвертирования валют (React/Redux) 
+- Приложение для конвертирования валют  
 [Код](https://github.com/Magomed-Suleymanov/Currency_converter) | [Demo](https://young-plains-15154.herokuapp.com/)
 
-- Тестовое задание от Avito (React/Redux)
+- Тестовое задание от Avito 
 [Код](https://github.com/Magomed-Suleymanov/Test_avito_app) | [Demo](https://frozen-badlands-56519.herokuapp.com/)
 
 ### Как можно со мной связаться?
