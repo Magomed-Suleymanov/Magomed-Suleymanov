@@ -13,6 +13,9 @@
 - Приложение для конвертации валют 
 [Код](https://github.com/Magomed-Suleymanov/Currency_converter) | [Demo](https://young-plains-15154.herokuapp.com/)
 
+- Приложение погоды 
+[Код](https://github.com/Magomed-Suleymanov/Weather-app) | [Demo](https://radiant-river-35638.herokuapp.com/)
+
 - Тестовое задание от Avito 
 [Код](https://github.com/Magomed-Suleymanov/Test_avito_app) | [Demo](https://frozen-badlands-56519.herokuapp.com/)
 
