@@ -4,20 +4,20 @@
 
 ### Какие у меня работы?
 
-- Десктопный чат 
-[Код](https://github.com/Magomed-Suleymanov/React_chat_challenge) | [Demo](https://murmuring-journey-98080.herokuapp.com/)
-
 - Проект "Помощник мэра" 
 [Код](https://github.com/Magomed-Suleymanov/City_hall_assistant) | [Demo](https://fierce-refuge-34600.herokuapp.com/)
 
-- Сайт криптовалют
-[Код](https://github.com/Magomed-Suleymanov/Crypto-app) | [Demo](https://ancient-inlet-45160.herokuapp.com)
+- Десктопный чат 
+[Код](https://github.com/Magomed-Suleymanov/React_chat_challenge) | [Demo](https://murmuring-journey-98080.herokuapp.com/)
 
 - Приложение для конвертации валют 
 [Код](https://github.com/Magomed-Suleymanov/Currency_converter) | [Demo](https://young-plains-15154.herokuapp.com/)
 
+- Сайт криптовалют
+[Код](https://github.com/Magomed-Suleymanov/Crypto-app)
+
 - Приложение погоды 
-[Код](https://github.com/Magomed-Suleymanov/Weather-app) | [Demo](https://radiant-river-35638.herokuapp.com/)
+[Код](https://github.com/Magomed-Suleymanov/Weather-app)
 
 - Тестовое задание от Avito 
 [Код](https://github.com/Magomed-Suleymanov/Test_avito_app)
