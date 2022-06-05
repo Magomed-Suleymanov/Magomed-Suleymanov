@@ -10,11 +10,13 @@
 - Десктопный чат 
 [Код](https://github.com/Magomed-Suleymanov/React_chat_challenge) | [Demo](https://murmuring-journey-98080.herokuapp.com/)
 
-- Приложение для конвертации валют 
-[Код](https://github.com/Magomed-Suleymanov/Currency_converter) | [Demo](https://young-plains-15154.herokuapp.com/)
-
 - Сайт криптовалют
 [Код](https://github.com/Magomed-Suleymanov/Crypto-app)
+
+### Различные тестовые задания
+
+- Приложение для конвертации валют 
+[Код](https://github.com/Magomed-Suleymanov/Currency_converter) | [Demo](https://young-plains-15154.herokuapp.com/)
 
 - Приложение погоды 
 [Код](https://github.com/Magomed-Suleymanov/Weather-app)
